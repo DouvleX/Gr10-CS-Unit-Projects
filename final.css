@@ -1,0 +1,12 @@
+h1 			{text-align:center;}
+
+h5			{font-size: 120%;}
+			
+body 		{color:white;
+			background-color:black;
+			font-family:courier;
+			font-size: 125%;}
+
+a:link		{color:white;
+			text-decoration:underline;}
+a:visited 	{color:white;}
